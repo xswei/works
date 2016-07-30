@@ -8,7 +8,7 @@
 
 简介:2016 公益云图数据可视化创新大赛
 
-![](https://github.com/xswei/works/blob/master/gongyiyuntu.png "公益云图")
+![](https://github.com/xswei/works/blob/master/yuntu.jpg "公益云图")
 
 
 作品1
