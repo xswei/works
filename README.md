@@ -8,6 +8,12 @@
 
 简介:2016 公益云图数据可视化创新大赛
 
+第一版
+
+![](https://github.com/xswei/works/blob/master/%E5%85%AC%E7%9B%8A%E4%BA%91%E5%9B%BEv1.jpg "公益云图")
+
+第二版
+
 ![](https://github.com/xswei/works/blob/master/%E5%85%AC%E7%9B%8A%E4%BA%91%E5%9B%BEv2.jpg "公益云图")
 
 
